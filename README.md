@@ -10,7 +10,7 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 -usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
 
-## Camino de análisis
+## Camino de análisis:
 Cargar datasets → Explorar → Detectar problemas → Limpiar → Calcular estadísticas → Visualizar → Detectar outliers → Segmentar → Generar insights
 
 ## Para ejecutar el Notebook
