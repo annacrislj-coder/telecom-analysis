@@ -5,10 +5,13 @@ Identificar patrones de uso, detectar comportamientos atípicos y comprender qu�
 
 ## 📂 Usamos 3 dataset para este análisis
 -plans.csv: los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra).
+
 -users_latam.csv: información de clientes: edad, ciudad, fecha de registro, plan contratado.
+
 -usage.csv: el detalle de uso real: llamadas (duración) y mensajes (longitud).
 
-## Etapas de análisis
+## Camino de análisis
+Cargar datasets → Explorar → Detectar problemas → Limpiar → Calcular estadísticas → Visualizar → Detectar outliers → Segmentar → Generar insights
 
 ## Para ejecutar el Notebook
 ▶ Cómo abrir el notebook en Google Colab
