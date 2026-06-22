@@ -16,6 +16,6 @@ Cargar datasets → Explorar → Detectar problemas → Limpiar → Calcular est
 ## Para ejecutar el Notebook
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
-[![Open In Colab](https://colab.research.google.com/drive/1LNRdLEenG3qdzmoM1hKSY0iEaqAPnLrN?usp=sharing)](URL_DEL_NOTEBOOK_EN_GITHUB)
+[![Open In Colab](https://colab.research.google.com/drive/1LNRdLEenG3qdzmoM1hKSY0iEaqAPnLrN)]](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 ## Guía
